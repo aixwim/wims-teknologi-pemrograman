@@ -10,7 +10,6 @@
   "category": "teknologi",
   "categoryLabel": "Teknologi",
   "parent": "wims-teknologi",
-  "children": [],
   "related": [
     "wims-teknologi-ai"
   ],
@@ -21,5 +20,6 @@
   "giscus": {
     "repoId": "R_kgDOT8FZkQ",
     "categoryId": "DIC_kwDOT8FZkc4DDpWE"
-  }
+  },
+  "googleVerification": "dx63Ebn63PlvT6120AIhc7cyImZlvvYthTYPurZA_C8"
 }
