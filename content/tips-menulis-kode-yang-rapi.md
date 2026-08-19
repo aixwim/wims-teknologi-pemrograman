@@ -3,6 +3,8 @@ title: "Tips Menulis Kode yang Rapi"
 date: "2026-08-19"
 category: "Teknologi"
 excerpt: "Kebiasaan menulis kode yang rapi dan mudah dibaca: penamaan yang jelas, fungsi kecil, dan konsistensi yang menyelamatkan proyek."
+meta_title: "Tips Menulis Kode yang Rapi dan Mudah Dibaca"
+meta_description: "Kebiasaan menulis kode yang rapi: gunakan nama bermakna, pecah menjadi fungsi kecil, dan jaga konsistensi agar kode mudah dibaca dan dirawat."
 tags: ["kode rapi", "clean code", "pemrograman", "pemula"]
 ---
 

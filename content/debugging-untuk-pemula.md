@@ -3,6 +3,8 @@ title: "Debugging untuk Pemula"
 date: "2026-08-19"
 category: "Teknologi"
 excerpt: "Cara menemukan dan memperbaiki error dalam program: membaca pesan kesalahan, membagi masalah, dan menguji langkah demi langkah."
+meta_title: "Debugging untuk Pemula: Cara Perbaiki Error"
+meta_description: "Cara menemukan dan memperbaiki error dalam program: membaca pesan kesalahan, membagi masalah kecil, dan menguji kode langkah demi langkah dengan tenang."
 tags: ["debugging", "error", "pemula", "pemrograman"]
 ---
 

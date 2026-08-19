@@ -3,6 +3,8 @@ title: "Struktur Data Dasar"
 date: "2026-08-19"
 category: "Teknologi"
 excerpt: "Memahami array, list, dan dict sebagai cara menyimpan dan mengatur data dalam program, fondasi penting yang harus dikuasai pemula."
+meta_title: "Struktur Data Dasar untuk Pemula"
+meta_description: "Pahami struktur data dasar seperti list, array, dan dictionary untuk menyimpan data dalam program, fondasi penting yang wajib dikuasai pemula."
 tags: ["struktur data", "array", "list", "pemrograman"]
 ---
 

@@ -3,6 +3,8 @@ title: "Komunitas Programmer untuk Pemula"
 date: "2026-08-19"
 category: "Teknologi"
 excerpt: "Manfaat bergabung dengan komunitas programmer bagi pemula: tempat bertanya, belajar berkolaborasi, dan menjaga motivasi belajar coding."
+meta_title: "Komunitas Programmer untuk Pemula: Manfaatnya"
+meta_description: "Manfaat bergabung dengan komunitas programmer bagi pemula: tempat bertanya, belajar berkolaborasi, dan menjaga motivasi belajar coding."
 tags: ["komunitas", "forum", "kolaborasi", "pemrograman"]
 ---
 

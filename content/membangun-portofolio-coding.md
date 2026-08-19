@@ -3,6 +3,8 @@ title: "Membangun Portofolio Coding"
 date: "2026-08-19"
 category: "Teknologi"
 excerpt: "Cara membangun portofolio coding yang kuat dari nol: mengerjakan proyek nyata, mendokumentasikannya, dan menampilkan karya secara daring."
+meta_title: "Cara Membangun Portofolio Coding dari Nol"
+meta_description: "Cara membangun portofolio coding yang kuat: kerjakan proyek nyata, dokumentasikan baik, dan tampilkan karya secara daring untuk menarik perekrut."
 tags: ["portofolio", "proyek", "karier", "pemrograman"]
 ---
 

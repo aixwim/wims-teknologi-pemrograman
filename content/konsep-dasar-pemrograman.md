@@ -3,6 +3,8 @@ title: "Konsep Dasar Pemrograman"
 date: "2026-08-18"
 category: "Teknologi"
 excerpt: "Memahami variabel, fungsi, dan perulangan: tiga konsep inti yang menjadi fondasi semua bahasa pemrograman modern."
+meta_title: "Konsep Dasar Pemrograman: Variabel, Fungsi, Loop"
+meta_description: "Memahami variabel, fungsi, dan perulangan sebagai konsep inti yang menjadi fondasi semua bahasa pemrograman, dijelaskan dengan analogi sederhana."
 tags: ["dasar pemrograman", "variabel", "fungsi", "loop"]
 ---
 

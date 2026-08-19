@@ -3,6 +3,8 @@ title: "Mengenal Python untuk Pemula"
 date: "2026-08-19"
 category: "Teknologi"
 excerpt: "Mengapa Python menjadi pilihan terbaik bahasa pemrograman pertama: tata bahasa sederhana, komunitas besar, dan kebutuhan nyata di industri."
+meta_title: "Mengenal Python untuk Pemula: Bahasa Pertama"
+meta_description: "Mengapa Python jadi bahasa pemrograman pertama terbaik? Simak tata bahasa sederhana, cara mulai latihan, dan pentingnya konsistensi saat belajar."
 tags: ["python", "bahasa pemrograman", "pemula", "belajar coding"]
 ---
 

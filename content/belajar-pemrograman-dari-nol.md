@@ -3,6 +3,8 @@ title: "Belajar Pemrograman dari Nol"
 date: "2026-08-18"
 category: "Teknologi"
 excerpt: "Panduan memulai perjalanan belajar coding untuk pemula: memilih bahasa pertama, menyusun strategi belajar, dan membangun proyek."
+meta_title: "Belajar Pemrograman dari Nol untuk Pemula"
+meta_description: "Panduan memulai belajar coding untuk pemula: memilih bahasa pertama, menyusun strategi belajar efektif, dan membangun proyek untuk mengasah kemampuan."
 tags: ["belajar coding", "pemula", "pemrograman"]
 ---
 

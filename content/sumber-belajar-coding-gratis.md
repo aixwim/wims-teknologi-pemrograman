@@ -3,6 +3,8 @@ title: "Sumber Belajar Coding Gratis"
 date: "2026-08-18"
 category: "Teknologi"
 excerpt: "Daftar sumber daya belajar pemrograman gratis yang terpercaya: dokumentasi resmi, tutorial interaktif, video, dan komunitas."
+meta_title: "Sumber Belajar Coding Gratis yang Terpercaya"
+meta_description: "Daftar sumber belajar pemrograman gratis yang terpercaya: dokumentasi resmi, tutorial interaktif, video, buku, dan komunitas, plus tips memaksimalkannya."
 tags: ["belajar coding gratis", "sumber belajar", "pemrograman"]
 ---
 
