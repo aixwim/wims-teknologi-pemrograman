@@ -1,0 +1,2 @@
+:HL["/wims-teknologi-pemrograman/_next/static/chunks/15gidihb5z431.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"tags","param":null,"prefetchHints":4160,"slots":{"children":{"name":"tag","param":{"type":"d","key":"pemula","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"nocay4mCE43KJbQEnMQIN"}
