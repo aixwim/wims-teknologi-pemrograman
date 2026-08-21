@@ -10,6 +10,7 @@ export interface NetworkSite {
   children: string[];
   related: string[];
   status: string;
+  articleCount?: number;
   note?: string;
 }
 
@@ -20,9 +21,13 @@ export interface NetworkData {
   brandPalettes: Record<string, { accent: string; accent2: string }>;
 }
 
+let networkCache: NetworkData | null = null;
+
 export function getNetwork(): NetworkData {
+  if (networkCache) return networkCache;
   const file = path.join(process.cwd(), 'registry', 'network.json');
-  return JSON.parse(fs.readFileSync(file, 'utf-8')) as NetworkData;
+  networkCache = JSON.parse(fs.readFileSync(file, 'utf-8')) as NetworkData;
+  return networkCache;
 }
 
 export function getAllRepos(): string[] {
